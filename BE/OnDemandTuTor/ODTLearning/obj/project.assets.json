@@ -13853,11 +13853,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ki_5\\Work\\Summer2024SWP391_SAP1804_Group05_BE\\OnDemandTuTor\\ODTLearning\\ODTLearning.csproj",
+      "projectUniqueName": "D:\\ODTLearning\\BE\\OnDemandTuTor\\ODTLearning\\ODTLearning.csproj",
       "projectName": "ODTLearning",
-      "projectPath": "D:\\Ki_5\\Work\\Summer2024SWP391_SAP1804_Group05_BE\\OnDemandTuTor\\ODTLearning\\ODTLearning.csproj",
+      "projectPath": "D:\\ODTLearning\\BE\\OnDemandTuTor\\ODTLearning\\ODTLearning.csproj",
       "packagesPath": "C:\\Users\\minht\\.nuget\\packages\\",
-      "outputPath": "D:\\Ki_5\\Work\\Summer2024SWP391_SAP1804_Group05_BE\\OnDemandTuTor\\ODTLearning\\obj\\",
+      "outputPath": "D:\\ODTLearning\\BE\\OnDemandTuTor\\ODTLearning\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\minht\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -13875,8 +13875,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Ki_5\\Work\\Summer2024SWP391_SAP1804_Group05_BE\\OnDemandTuTor\\ODTLearning.BLL\\ODTLearning.BLL.csproj": {
-              "projectPath": "D:\\Ki_5\\Work\\Summer2024SWP391_SAP1804_Group05_BE\\OnDemandTuTor\\ODTLearning.BLL\\ODTLearning.BLL.csproj"
+            "D:\\ODTLearning\\BE\\OnDemandTuTor\\ODTLearning.BLL\\ODTLearning.BLL.csproj": {
+              "projectPath": "D:\\ODTLearning\\BE\\OnDemandTuTor\\ODTLearning.BLL\\ODTLearning.BLL.csproj"
             }
           }
         }

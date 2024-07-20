@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uTK3ELs6XEE=",
+  "dgSpecHash": "h5ZJ3U4XyxM=",
   "success": true,
-  "projectFilePath": "D:\\Ki_5\\Work\\Summer2024SWP391_SAP1804_Group05_BE\\OnDemandTuTor\\ODTLearning\\ODTLearning.csproj",
+  "projectFilePath": "D:\\ODTLearning\\BE\\OnDemandTuTor\\ODTLearning\\ODTLearning.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\minht\\.nuget\\packages\\aqua-core\\5.4.1\\aqua-core.5.4.1.nupkg.sha512",
     "C:\\Users\\minht\\.nuget\\packages\\aqua-core-newtonsoft-json\\5.4.1\\aqua-core-newtonsoft-json.5.4.1.nupkg.sha512",

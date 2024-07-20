@@ -206,7 +206,11 @@ namespace ODTLearning.BLL.Repositories
 
                 var password = new Random().Next(100000, 999999);
 
-                var result = await emailLib.SendMail("ODTLearning", "Lấy lại mật khẩu", $"Mật khẩu mới là: {password}", Email);
+                var name = "ODTLearning";
+                var subject = "Lấy lại mật khẩu";
+                var content = $"Chào {user.FullName}. Mật khẩu mới là: {password}";
+
+                var result = await emailLib.SendMail(name, subject, content, Email);
 
                 if (!result)
                 {
