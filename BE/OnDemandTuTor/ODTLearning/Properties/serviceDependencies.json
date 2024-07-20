@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "ignored": "true",
+      "type": "mssql",
+      "connectionId": "ConnectionStringsORG:DB_MiniCapStoneORG"
+    },
+    "mssql1": {
+      "ignored": "true",
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:DB_MiniCapStone"
+    }
+  }
+}
